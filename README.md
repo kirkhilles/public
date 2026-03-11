@@ -2,10 +2,8 @@ The file smarter.php represents my solution to the problem using PHP.
 
 I have provided 2 examples that can be commented/uncommented out:
 
-# Sample Errors
 #sortIt("", 0, -1, "xyz");
 
-#Valid Data
 echo (sortIt(100, 200, 300, 400));
 
 The Sample Error version returns an array of data to a handler that currently just outputs the Error Text. Generally it would log the errors and redirect or return back data that can be displayed on the page. 
